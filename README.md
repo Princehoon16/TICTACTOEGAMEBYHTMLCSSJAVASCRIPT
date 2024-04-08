@@ -1,1 +1,1 @@
-<img src="tic-tac_toe game" alt="image">
+<img src="Tic-Tac_toe game" alt="image">
